@@ -6,3 +6,4 @@ Sitemap: https://apcalcscore.xyz/sitemap.xml
 
 # Crawl-delay for being nice to search engines
 Crawl-delay: 1
+
